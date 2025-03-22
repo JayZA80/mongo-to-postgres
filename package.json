@@ -1,0 +1,14 @@
+{
+  "name": "mongo-to-postgres",
+  "version": "1.0.0",
+  "description": "Pipeline to transfer data from a MongoDB database to a PostgreSQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "run tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
